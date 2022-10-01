@@ -6,7 +6,7 @@ CS@TTU | Full Stack Web Developer
 
 I am a junior undergraduate student majoring in Computer Science and Mathematics at Texas Tech University, graduating in December 2023. Currently, I am looking for internships / Co-op positions for Summer 2023 and Spring 2023.
 
-* 🌍  I'm open to relocate to any location with US.
+* 🌍  I'm open to relocate to any location within US.
 * ✉️  You can contact me at [nimtiaz@ttu.edu](mailto:nimtiaz@ttu.edu)
 * 🧠  I'm currently learning MERN Stack development, REST APIs and AWS Cloud services.
 * 🧠  Grinding Leetcode to practice my Data Structure and Algorithms knowledge.
