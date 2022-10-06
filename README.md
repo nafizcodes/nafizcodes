@@ -1,7 +1,7 @@
 Hi, my name is Nafiz Imtiaz👋
 =============================
 
-CS@TTU | Full Stack Web Developer
+CS@TTU | Software Engineer
 ---------------------------------
 
 I am a junior undergraduate student majoring in Computer Science and Mathematics at Texas Tech University, graduating in December 2023. Currently, I am looking for internships / Co-op positions for Summer 2023 and Spring 2023.
