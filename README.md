@@ -34,25 +34,25 @@ I am a junior undergraduate student majoring in Computer Science and Mathematics
 My tech stack FYI:
 
 🧑‍💻 Languages: 
-Python, Java, JavaScript, Go, C/C++, HTML, CSS
+Python, Java, JavaScript, Go, C/C++, HTML, CSS, SQL
 
 📦 Frameworks: 
-Django, Spring Boot, NestJs, Gin, React, Angular, Vue
+ React.js, Node.js, Express.js, Django, Spring Boot
 
 📙 Data Storage:
-PostgreSQL, MySQL, SQL Server, Redis, MongoDB, CouchDB
+PostgreSQL, MySQL, MongoDB
 
 💡 CI/CD, Tools & Development Kit:
-Git, AWS, Docker, Jenkins, Maven, Visual Studio Code, JetBrains, Visual Studio
+Git, AWS, Docker, Visual Studio Code, JetBrains, Visual Studio
 
 🏗 Architecture & Methodologies: 
- Microservices, OOP, MVC, Agile, Waterfall
+ Microservices, OOP, Agile, Waterfall
 
 📎 Other Technologies:
- Linux, Node.js, RabbitMQ, JUnit, JWT, GraphQL, REST API, Kafka
+JUnit, JWT, GraphQL, REST API, Kafka, Pandas, Numpy, Matplotlib
 
 🧱 Related Knowledge:
- Data Structure & Algo, Computer Network, Operating System, Computer Architecture
+ Data Structure & Algo, Operating System, Computer Architecture
 </p>
 
 
