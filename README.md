@@ -52,7 +52,7 @@ Git, AWS, Docker, Visual Studio Code, JetBrains, Visual Studio
 JUnit, JWT, GraphQL, REST API, Kafka, Pandas, Numpy, Matplotlib
 
 🧱 Related Knowledge:
- Data Structure & Algo, Operating System, Computer Architecture
+ Data Structure & Algo, Software Development Cycle, Computer Architecture, Database Systems, Automata
 </p>
 
 
