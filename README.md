@@ -29,7 +29,33 @@ I am a junior undergraduate student majoring in Computer Science and Mathematics
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
-                    
+
+<p align="left">
+My tech stack FYI:
+
+🧑‍💻 Languages: 
+Python, Java, JavaScript, Go, C/C++, HTML, CSS
+
+📦 Frameworks: 
+Django, Spring Boot, NestJs, Gin, React, Angular, Vue
+
+📙 Data Storage:
+PostgreSQL, MySQL, SQL Server, Redis, MongoDB, CouchDB
+
+💡 CI/CD, Tools & Development Kit:
+Git, AWS, Docker, Jenkins, Maven, Visual Studio Code, JetBrains, Visual Studio
+
+🏗 Architecture & Methodologies: 
+ Microservices, OOP, MVC, Agile, Waterfall
+
+📎 Other Technologies:
+ Linux, Node.js, RabbitMQ, JUnit, JWT, GraphQL, REST API, Kafka
+
+🧱 Related Knowledge:
+ Data Structure & Algo, Computer Network, Operating System, Computer Architecture
+</p>
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/nafizcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nafizimtiazdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
