@@ -1,4 +1,4 @@
-Hi, my name is Nafiz Imtiaz👋
+Howdy, this is Nafiz Imtiaz👋
 =============================
 
 Computer Science and Mathematics @TTU | Software Engineer
